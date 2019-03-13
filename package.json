@@ -8,7 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^2.6.6"
+    "@firebase/app": "^0.3.11",
+    "@firebase/firestore": "^1.0.6",
+    "firebase": "^5.8.6",
+    "lodash": "^4.17.11",
+    "vue": "^2.6.6",
+    "vue-firestore": "^0.3.21"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
